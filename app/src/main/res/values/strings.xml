@@ -5,7 +5,7 @@
     <string name="zlfjr_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="zlfjr_top_bar_home_title">Home/App Title</string>
+    <string name="zlfjr_top_bar_home_title">Orvex Style Key</string>
     <string name="zlfjr_top_bar_cart_title">Cart</string>
     <string name="zlfjr_top_bar_checkout_title">Checkout</string>
     <string name="zlfjr_top_bar_orders_title">Orders</string>
@@ -64,9 +64,15 @@
     <string name="zlfjr_settings_screen_company_label">Company</string>
     <string name="zlfjr_settings_screen_version_label">Version</string>
     <string name="zlfjr_settings_screen_customer_support_label">Customer Support</string>
-    <string name="zlfjr_company_name">Company Name</string>
-    <string name="zlfjr_app_version">1.0.0</string>
-    <string name="zlfjr_customer_support_link">https://website.org/</string>
+    <string name="zlfjr_company_name">ORVEX RETAIL LTD</string>
+    <string name="zlfjr_app_version">1.0</string>
+    <string name="zlfjr_customer_support_link">https://orvexretail.surf</string>
+
+    <string name="zlfjr_category_dresses">Dresses</string>
+    <string name="zlfjr_category_outerwear">Outerwear</string>
+    <string name="zlfjr_category_knitwear">Knitwear</string>
+    <string name="zlfjr_category_accessories">Accessories</string>
+    <string name="zlfjr_category_footwear">Footwear</string>
 
     <!-- clear cart dialog -->
     <string name="zlfjr_clear_cart_dialog_title">Clear cart?</string>
